@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".telaAbout">
+
+    <TextView
+        android:id="@+id/sobretxt"
+        android:layout_width="383dp"
+        android:layout_height="634dp"
+        android:layout_margin="25dp"
+        android:text="A associação Amigos para Sempre - CATIVA(Centro de Atividades para a Terceira Idade) foi criada em meados de 2018 com intuito de proporcionar atividades físicas e culturais ao público da terceira idade tendo em seu quadro social mais de 120 sócios, onde praticam ginástica, pilates, cãmbio, dança e basquete, já na parte culturalmente são feitas atividades de teatro e coral, hoje as atividades são exercidos no esporte clube Itapuí."
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/list_content.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_dropdown_item_1line.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_expandable_list_item_1.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/test_list_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/two_line_list_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.195" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/drawable/background.xml" value="0.195" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/drawable/button.xml" value="0.195" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/drawable/button2.xml" value="0.195" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/drawable/container_components.xml" value="0.196" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/drawable/container_user.xml" value="0.196" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_form_cadastro.xml" value="0.18" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_form_edit.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_form_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_lista_associados.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_about.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_adm.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_atividade.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_edicao.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_entrada.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_eventos.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_principal2.xml" value="0.1997971602434077" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_semana.xml" value="0.25" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/activity_tela_ud.xml" value="0.25" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/item_associado.xml" value="0.33" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/item_lista.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/item_lista2.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/item_lista3.xml" value="0.33" />
+        <entry key="..\:/Users/user/Downloads/tcc4/app/src/main/res/layout/lista.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
